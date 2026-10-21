@@ -1,0 +1,14 @@
+{
+  "name": "mcp-servers",
+  "version": "0.0.0",
+  "description": "Test",
+  "author": {
+    "name": "Tessa McTestington"
+  },
+  "mcpServers": {
+    "Constructor": {
+      "type": "http",
+      "url": "https://docs.constructor.com/mcp"
+    }
+  }
+}

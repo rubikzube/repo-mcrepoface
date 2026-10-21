@@ -1,0 +1,13 @@
+{
+  "name": "repo-mcrepoface",
+  "description": "Test",
+  "owner": {
+    "name": "Tessa McTestington"
+  },
+  "plugins": [
+    {
+      "name": "mcp-servers",
+      "source": "./plugins/mcp-servers"
+    }
+  ]
+}
